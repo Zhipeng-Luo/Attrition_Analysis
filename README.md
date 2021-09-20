@@ -2,7 +2,7 @@
 
 ## Background
 
-This is actually a team project we do for the course MADS591/592for the Master of Applied Data Science program in University of Michigan - Ann Arbor. 
+This is a team project we do for the course MADS591/592for the Master of Applied Data Science program in University of Michigan - Ann Arbor. 
 
 **Team Member**
 - Zhipeng Luo (brianluo@umich.edu)
